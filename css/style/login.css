@@ -1,0 +1,10 @@
+body{
+    background-color: #cda5cf;
+}
+
+.card{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: #e7e3f5;
+    padding: 30px;
+    border-radius: 5px;
+}
